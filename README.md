@@ -1,2 +1,2 @@
-# BMI_calculator
-BMI_calculator opdracht FRO
+
+http://26615.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/fro/bmi_calculator/
