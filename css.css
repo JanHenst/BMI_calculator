@@ -1,0 +1,54 @@
+body {
+  background-color: lightgray;
+}
+
+#vraag {
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  margin: 10px;
+}
+
+#gewicht {
+  margin-left: 20px;
+  width: 2.2em;
+  height: 1.5em;
+  font-size: 20px;
+  border-width: thin;
+  border-color: black;
+}
+
+#lengte {
+  /* margin-left: 150px; */
+  width: 2.4em;
+  height: 1.5em;
+  font-size: 20px;
+  border-width: thin;
+  border-color: black;
+}
+
+#bereken {
+  background-color: #3356E7;
+  margin-right: 13px;
+  border: none;
+  border-radius: 10px 10px 10px 10px;
+  color: white;
+  padding: 5px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#resultaat {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border-width: thin;
+  border-color: black;
+  display: block;
+  font-size: 20px;
+}
